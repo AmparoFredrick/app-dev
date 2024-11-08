@@ -1,2 +1,1 @@
-# app-dev
-My first repository
+# sword clash in my favorite anime
